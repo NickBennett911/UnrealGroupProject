@@ -1,0 +1,13 @@
+First Interval Goals:
+	Get navigable map with some ghost objects
+
+	have some ghost events working with those objects
+
+	have basic sounds for the game
+
+Second Interval Goals:
+	Map is Complete with all ghost objects(interactiable/thrown)
+
+	Ghost events work with all of the objects
+
+	all of the sounds work for the game (footsteps/voices/objects)
