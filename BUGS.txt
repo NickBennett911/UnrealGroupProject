@@ -1,3 +1,10 @@
 
 sometimes the ghost will spawn in a rock. not quite sure if we want that to happen
 	-"no we dont want it to happen but i have no idea how to go about making that not happen
+
+Over by the last place you can walk out of the world through the rocks
+
+
+
+
+
